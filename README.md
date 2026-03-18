@@ -4,6 +4,10 @@
   <img src="images/logo_IME.png" alt="IME Logo" />
 </p>
 
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.19100311"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19100311.svg" alt="DOI"></a>
+</p>
+
 A Python tool that automates the identification and characterization of **Critical Points (CPs)** at the interface between molecular fragments, enabling the study of **intermolecular interactions** in molecule–molecule and protein–ligand systems. It supports Gaussian (`.fchk`) and ORCA (`.wfn`/`.wfx`) wavefunction formats.
 
 Designed for computational chemists who need to systematically map and quantify how fragments interact — whether through hydrogen bonds, van der Waals contacts, or any other type of interaction revealed by topological analysis (QTAIM).
@@ -216,7 +220,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 If you use this software in your research, please cite it using our Zenodo DOI:
 
-**DOI**: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+**DOI**: [10.5281/zenodo.19100311](https://doi.org/10.5281/zenodo.19100311)
 
 You can also use the citation metadata provided in the [CITATION.cff](CITATION.cff) file.
 
