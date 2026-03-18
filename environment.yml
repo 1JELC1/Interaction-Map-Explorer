@@ -1,0 +1,13 @@
+name: ime-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - numpy
+  - pandas
+  - networkx
+  - pip
+  - pip:
+    - ase
+    - vedo

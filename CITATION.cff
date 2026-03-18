@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "López-Cervantes"
+    given-names: "Juan Emanuel"
+    orcid: "https://orcid.org/0009-0001-5428-6337"
+    affiliation: "Universidad Autónoma del Estado de Hidalgo"
+title: "Interaction Map Explorer (IME): Automated Topological Analysis of Molecular Interfaces"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: 2026-03-18
+url: "https://github.com/1JELC1/Interaction-Map-Explorer"
+repository-code: "https://github.com/1JELC1/Interaction-Map-Explorer"
+keywords:
+  - computational-chemistry
+  - QTAIM
+  - critical-points
+  - molecular-interactions
+  - non-covalent-interactions
+  - topological-analysis
+  - DFT
+  - python
+  - multiwfn
+  - VMD
+  - protein-ligand
+  - bond-critical-points
+abstract: "A Python tool that automates the identification and characterization of Critical Points (CPs) at the interface between molecular fragments, enabling the study of intermolecular interactions in molecule-molecule and protein-ligand systems using QTAIM topological analysis."
+license: Apache-2.0

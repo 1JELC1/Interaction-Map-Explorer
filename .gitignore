@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Multiwfn executable and support files
+Multiwfn.exe
+Multiwfn
+libiomp5md.dll
+
+# Multiwfn runtime logs
+Multi.log
+output.txt
+inputs.txt
+
+# Output directories
+output/
+salida/
+
+# IDE
+.vscode/
+.idea/
