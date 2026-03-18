@@ -198,12 +198,12 @@ Here is a demonstration of how to define fragments in **Interactive Mode** using
 **Example 1: Ligand vs. Entire Active Site**
 The ligand is selected as Fragment 1, and the rest of the active site atoms are assigned to Fragment 2. IME finds all the interaction CPs between the ligand and the pocket.
 
-https://github.com/user-attachments/assets/47c5d66f-38cc-4bcb-8437-14cdee34bbca
+https://github.com/user-attachments/assets/55121fb1-85db-492b-b500-23a7e93fe7f5
 
 **Example 2: Triad Interaction (Ligand and Two Specific Residues)**
 The ligand is Fragment 1, and two specific surrounding residues are individually selected as Fragment 2 and Fragment 3. This isolates and characterizes only the interactions forming this specific triad.
 
-https://github.com/user-attachments/assets/fd7e0856-1167-43e3-832f-710e77dfba18
+https://github.com/user-attachments/assets/e81de88d-9d6e-4914-9281-bcf61127d118
 
 ---
 
