@@ -191,6 +191,22 @@ After processing, the `output/` folder will contain all PDB, CSV, TCL, and prope
 
 ---
 
+## Case Study: Protein-Ligand Interface
+
+Here is a demonstration of how to define fragments in **Interactive Mode** using a ligand inside a protein active site.
+
+**Example 1: Ligand vs. Entire Active Site**
+The ligand is selected as Fragment 1, and the rest of the active site atoms are assigned to Fragment 2. IME finds all the interaction CPs between the ligand and the pocket.
+
+👉 **[Watch Video 1: Ligand vs. Entire Active Site](https://github.com/1JELC1/Interaction-Map-Explorer/blob/master/videos/interaction_1.mp4)**
+
+**Example 2: Triad Interaction (Ligand and Two Specific Residues)**
+The ligand is Fragment 1, and two specific surrounding residues are individually selected as Fragment 2 and Fragment 3. This isolates and characterizes only the interactions forming this specific triad.
+
+👉 **[Watch Video 2: Triad Interaction](https://github.com/1JELC1/Interaction-Map-Explorer/blob/master/videos/interaction_2.mp4)**
+
+---
+
 ## VMD Visualization
 
 Open VMD and load the generated `.tcl` script:
