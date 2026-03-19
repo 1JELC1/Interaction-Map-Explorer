@@ -203,7 +203,7 @@ https://github.com/user-attachments/assets/55121fb1-85db-492b-b500-23a7e93fe7f5
 **Example 2: Triad Interaction (Ligand and Two Specific Residues)**
 The ligand is Fragment 1, and two specific surrounding residues are individually selected as Fragment 2 and Fragment 3. This isolates and characterizes only the interactions forming this specific triad.
 
-https://github.com/user-attachments/assets/e81de88d-9d6e-4914-9281-bcf61127d118
+https://github.com/user-attachments/assets/d8dec599-0630-4281-b449-4dface673289
 
 ---
 
