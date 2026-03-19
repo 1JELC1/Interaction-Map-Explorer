@@ -193,7 +193,7 @@ After processing, the `output/` folder will contain all PDB, CSV, TCL, and prope
 
 ## Case Study: Protein-Ligand Interface
 
-Here is a demonstration of how to define fragments in **Interactive Mode** using a ligand inside a protein active site.
+Here is a demonstration of how to define fragments in **Interactive Mode** using a ligand inside a cropped region of a protein active site.
 
 **Example 1: Ligand vs. Entire Active Site**
 The ligand is selected as Fragment 1, and the rest of the active site atoms are assigned to Fragment 2. IME finds all the interaction CPs between the ligand and the pocket.
