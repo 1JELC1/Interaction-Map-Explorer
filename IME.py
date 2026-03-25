@@ -40,8 +40,7 @@ def generate_pdbs(file, working_dir, output_dir, cps):
     errors = []
     num_cpu = _detect_num_cpus(0.7)
     with open("inputs.txt", "w") as f:
-        f.write(f"""
-{file}
+        f.write(f"""{file}
 1000
 10
 {num_cpu}
@@ -97,8 +96,7 @@ q
 def cp_properties(file, output_dir, cps, cp_indices, cps_txt_path):
     joined = f'\n7\n'.join(cp_indices)
     with open("inputs.txt", "w") as f:
-        f.write(f"""
-{file}
+        f.write(f"""{file}
 2
 -4
 5
